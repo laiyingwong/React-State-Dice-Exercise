@@ -36,3 +36,5 @@ $ cd react-state-dice
 ## 👏 Credits
 
 This project is based on the React state tutorial of <a href="https://www.udemy.com/course/modern-react-bootcamp/">The Modern React Bootcamp</a> by Colt Steele.
+
+The dice icons are imported from <a href="https://react-icons.github.io/react-icons">React Icons</a>.
